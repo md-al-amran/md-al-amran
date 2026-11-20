@@ -1,7 +1,6 @@
-
 # 👋 Hi, I'm MD AL Amran
 
-💻 Cloud & DevOps Engineer focused on building scalable, automated, and reliable cloud infrastructure on AWS.
+💻 Cloud & DevOps Engineer focused on building scalable, automated, and reliable cloud infrastructure on AWS and Azure.
 
 ---
 
