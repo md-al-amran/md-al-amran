@@ -174,7 +174,7 @@
 
 ## 🎯 My Goal
 
-I'm actively building hands-on Cloud and DevOps projects to continue growing into a **Lead Cloud / DevOps Engineer** role.
+I’m building expertise through hands-on Cloud, DevOps, and DevSecOps projects, aspiring to Lead, Consultant, and Architect level roles.
 
 I believe in continuous learning, practical experience, and building solutions that solve real-world engineering challenges.
 
