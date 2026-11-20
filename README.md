@@ -118,7 +118,7 @@
 - Configured networking and security rules.
 - Automated infrastructure provisioning.
 
-🔗 **Repository:** Being Refined
+🔗 **Repository:** Being Refined.
 
 ### 2. Dockerized Web Application
 
@@ -131,7 +131,7 @@
 - Deployed containers on AWS EC2.
 - Managed container networking, ports, and logs.
 
-🔗 **Repository:** Being Refined
+🔗 **Repository:** Being Refined.
 
 ### 3. AWS Networking & Auto Scaling
 
@@ -147,7 +147,7 @@
 - Configured CloudWatch monitoring and security controls.
 - Applied least-privilege security group rules to restrict backend access.
 
-🔗 **Repository:** [DevOps AWS Auto Scaling](https://github.com/mdirie3/Devops---AWS-Auto-Scaling)
+🔗 **Repository:** Being Refined.
 
 ---
 
